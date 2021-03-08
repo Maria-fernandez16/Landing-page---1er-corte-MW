@@ -27,12 +27,10 @@ aside#boton-wp a:hover i { color: #00bb2d; transition: all 0.3s ease-in; }
 /* Componente Menú Responsive */
 aside#menu-moviles { width: 290px; height: 100%; display: none; margin: 0; float: none; position: fixed; right: -290px; top: 0; z-index: 99999; background: #350a5d; }
 
-aside#menu-moviles a#abrir-menu { width: 35px; height: auto; margin: 0; float: none; position: absolute; top: 25px; left: -35px; display: block; text-decoration: none; color: #fff; background: #f3114f; font-weight: 600; font-size: 1em; line-height: 1em; text-align: center; padding: 10px 0; border-radius: 5px 0 0 5px; transition: all 0.3s ease-in;}
-
-aside#menu-moviles a#abrir-menu:hover { background: #350a5d; transition: all 0.3s ease-in; }
+aside#menu-moviles a#abrir-menu { width: 35px; height: auto; margin: 0; float: none; position: absolute; top: 25px; left: -35px; display: block; text-decoration: none; color: #fff; background: #f3114f; font-weight: 600; font-size: 1em; line-height: 1em; text-align: center; padding: 10px 0; border-radius: 5px 0 0 5px; transition: all 0.3s ease-in; }
+aside#menu-moviles a#abrir-menu:hover { background: #350a5d; transition: all 0.3s ease-in }
 
 aside#menu-moviles a#cerrar-menu { width: 35px; height: auto; margin: 0; float: none; position: absolute; top: 25px; left: -35px; display: none; text-decoration: none; color: #fff; background: #f3114f; font-weight: 600; font-size: 1em; line-height: 1em; text-align: center; padding: 10px 0; border-radius: 5px 0 0 5px; transition: all 0.3s ease-in; }
-
 aside#menu-moviles a#cerrar-menu:hover { background: #350a5d; transition: all 0.3s ease-in; }
 
 aside#menu-moviles nav { width: 60%; height: auto; margin: 15% auto; float: none; position: relative; }
